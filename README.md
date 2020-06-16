@@ -4,7 +4,7 @@ All releases of Podcaster App
 # Latest Release
 **[Podcaster v3.3.2](https://github.com/sajeebchandan/Podcaster-Releases/releases/tag/3.3.2)**
 
-![image](https://user-images.githubusercontent.com/34353160/84818886-057e2900-b039-11ea-90c6-b44024611fd6.png)
+![image](https://user-images.githubusercontent.com/34353160/84824336-92c57b80-b041-11ea-8f05-4c439e3e6716.png)
 
 # What is Podcaster
 Podcaster is a light-weight windows desktop application which can play online radio via direct streaming link. It also comes with a high-performance FFT (Fast Fourier Transform) graph generator.
