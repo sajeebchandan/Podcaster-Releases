@@ -40,9 +40,9 @@ Till v3.2.0 I've used [naudio/NAudio: Audio and MIDI library for .NET](https://g
 
 Since v3.3.2 I've been using [BASS.NET](http://bass.radio42.com/) along with BASS by [un4seen](http://www.un4seen.com/) for FFT Processing
 
-Currently I'm using a custom version of [filoe/cscore: CSCore - .NET Audio Library](https://github.com/filoe/cscore) by [Florian](https://github.com/filoe).
+Currently I'm using a customized version of [filoe/cscore: CSCore - .NET Audio Library](https://github.com/filoe/cscore) by [Florian](https://github.com/filoe).
 I've done the customization as per my need. Thanks [Florian](https://github.com/filoe) for making this awesome library open source.
-I've using this library for audio rendering as well as FFT processing
+I'm using this library for audio rendering as well as FFT processing
 
 
 ### Another credits:
