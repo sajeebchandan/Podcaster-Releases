@@ -38,7 +38,7 @@ Podcaster is a light-weight windows desktop application which can play online ra
 
 Till v3.2.0 I've used [naudio/NAudio: Audio and MIDI library for .NET](https://github.com/naudio/NAudio) by [Mark Heath](https://github.com/markheath) for audio rendering.
 
-Since v3.3.2 I've been using [BASS.NET](http://bass.radio42.com/) along with BASS by [un4seen](http://www.un4seen.com/) for FFT Processing
+Till v3.3.2 I've been using [BASS.NET](http://bass.radio42.com/) along with BASS by [un4seen](http://www.un4seen.com/) for FFT Processing
 
 Currently I'm using a customized version of [filoe/cscore: CSCore - .NET Audio Library](https://github.com/filoe/cscore) by [Florian](https://github.com/filoe).
 I've done the customization as per my need. Thanks [Florian](https://github.com/filoe) for making this awesome library open source.
