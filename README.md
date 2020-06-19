@@ -17,6 +17,7 @@ Podcaster is a light-weight windows desktop application which can play online ra
 * Control FFT display settings
 * Get FFT graph for audio from another application
 * **120FPS** High-Performance Audio FFT Graph
+* System Tray notification
 
 ## Play audio from streamming URI on default MMDevice
 ![image](https://user-images.githubusercontent.com/34353160/85119704-ff0fcd00-b243-11ea-8247-769e8bf8bfc5.png)
