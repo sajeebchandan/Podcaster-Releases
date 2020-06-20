@@ -47,6 +47,7 @@ I'm using this library for audio rendering as well as FFT processing
 
 ### Another credits:
 * [filoe/cscore: CSCore - .NET Audio Library](https://github.com/filoe/cscore) by [Florian](https://github.com/filoe) **Customized By Me**.
+* Setup has been created with [Inno Setup Compiler](https://github.com/jrsoftware/issrc) by [JRSoftware](https://github.com/jrsoftware)
 * [Fabrice Lacharme](https://www.codeproject.com/script/Membership/View.aspx?mid=10642189) for this awesome [ColorSlider](https://github.com/fabricelacharme/ColorSlider)
 * [Florian Rosmann](https://www.codeproject.com/script/Membership/View.aspx?mid=10097376) for this tool named as [.NET COM Interop using Postbuild](https://www.codeproject.com/Articles/644130/NET-COM-Interop-using-Postbuild)
 * [James Newton-King](https://github.com/JamesNK) for this awesome library [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json)
