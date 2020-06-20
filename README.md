@@ -2,7 +2,7 @@
 All releases of Podcaster App
 
 # Latest Release
-## [Podcaster v3.3.3](https://github.com/sajeebchandan/Podcaster-Releases/releases/tag/3.3.3)
+## [Podcaster v4.0.0](https://github.com/sajeebchandan/Podcaster-Releases/releases/tag/4.0.0)
 
 ![image](https://user-images.githubusercontent.com/34353160/85120057-7fcec900-b244-11ea-9c9a-ebc7c748f774.png)
 
@@ -11,6 +11,7 @@ Podcaster is a light-weight windows desktop application which can play online ra
 
 # Features
 * Play audio from the streaming URI of online radio on default MMDevice
+* Play audio directly via YouTube video link
 * Save URI into podcast collection
 * **Download audio** from audio URI
 * **Backup/Restore** podcast URI collection
@@ -19,7 +20,7 @@ Podcaster is a light-weight windows desktop application which can play online ra
 * **120FPS** High-Performance Audio FFT Graph
 * System Tray notification
 
-## Play audio from streamming URI on default MMDevice
+## Play audio from streamming URI / YouTube video link on default MMDevice
 ![image](https://user-images.githubusercontent.com/34353160/85119704-ff0fcd00-b243-11ea-8247-769e8bf8bfc5.png)
 
 ## Save URI into podcast collection
@@ -47,6 +48,7 @@ I'm using this library for audio rendering as well as FFT processing
 
 ### Another credits:
 * [filoe/cscore: CSCore - .NET Audio Library](https://github.com/filoe/cscore) by [Florian](https://github.com/filoe) **Customized By Me**.
+* [omansak/libvideo: A lightweight .NET library to download YouTube videos](https://github.com/omansak/libvideo) by [OMANSAK](https://github.com/omansak) for Youtube Audio playback URI generation.
 * Setup has been created with [Inno Setup Compiler](https://github.com/jrsoftware/issrc) by [JRSoftware](https://github.com/jrsoftware)
 * [Fabrice Lacharme](https://www.codeproject.com/script/Membership/View.aspx?mid=10642189) for this awesome [ColorSlider](https://github.com/fabricelacharme/ColorSlider)
 * [Florian Rosmann](https://www.codeproject.com/script/Membership/View.aspx?mid=10097376) for this tool named as [.NET COM Interop using Postbuild](https://www.codeproject.com/Articles/644130/NET-COM-Interop-using-Postbuild)
