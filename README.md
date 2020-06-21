@@ -4,7 +4,7 @@ All releases of Podcaster App
 # Latest Release
 ## [Podcaster v4.0.0](https://github.com/sajeebchandan/Podcaster-Releases/releases/tag/4.0.0)
 
-![image](https://user-images.githubusercontent.com/34353160/85120057-7fcec900-b244-11ea-9c9a-ebc7c748f774.png)
+![image](https://user-images.githubusercontent.com/34353160/85234366-b8ca9180-b42e-11ea-954e-a339e1177b2a.png)
 
 # What is Podcaster
 Podcaster is a light-weight windows desktop application which can play online radio via direct streaming link. It also comes with a high-performance FFT (Fast Fourier Transform) graph generator.
@@ -12,6 +12,7 @@ Podcaster is a light-weight windows desktop application which can play online ra
 # Features
 * Play audio from the streaming URI of online radio on default MMDevice
 * Play audio directly via YouTube video link
+* Seek any stream which is seekable
 * Save URI into podcast collection
 * **Download audio** from audio URI
 * **Backup/Restore** podcast URI collection
@@ -21,19 +22,22 @@ Podcaster is a light-weight windows desktop application which can play online ra
 * System Tray notification
 
 ## Play audio from streamming URI / YouTube video link on default MMDevice
-![image](https://user-images.githubusercontent.com/34353160/85119704-ff0fcd00-b243-11ea-8247-769e8bf8bfc5.png)
+![image](https://user-images.githubusercontent.com/34353160/85234389-ddbf0480-b42e-11ea-951e-e4ea584f8460.png)
+
+## Seek any stream which is seekable
+![image](https://user-images.githubusercontent.com/34353160/85234417-ff1ff080-b42e-11ea-85d1-e637670ba1e1.png)
 
 ## Save URI into podcast collection
-![image](https://user-images.githubusercontent.com/34353160/85119931-54e47500-b244-11ea-9973-49d1e259f39f.png)
+![image](https://user-images.githubusercontent.com/34353160/85234502-a43ac900-b42f-11ea-857d-b0dd274687a4.png)
 
 ## Download audio from audio URI
-![image](https://user-images.githubusercontent.com/34353160/85120159-ab51b380-b244-11ea-9343-d20a2cb21c70.png)
+![image](https://user-images.githubusercontent.com/34353160/85234438-1bbc2880-b42f-11ea-92da-d5df7c194c5b.png)
 
 ## Back/Restore | FFT Settings
 ![image](https://user-images.githubusercontent.com/34353160/85120608-4f3b5f00-b245-11ea-896b-537436d078cf.png)
 
 ## 120FPS High-Performance Audio FFT Graph
-![image](https://user-images.githubusercontent.com/34353160/85120294-dd631580-b244-11ea-94fc-fc5840e79504.png)
+![image](https://user-images.githubusercontent.com/34353160/85234447-38f0f700-b42f-11ea-85e3-b36dae11580a.png)
 
 # Credits
 
