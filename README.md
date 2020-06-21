@@ -2,7 +2,7 @@
 All releases of Podcaster App
 
 # Latest Release
-## [Podcaster v4.0.0](https://github.com/sajeebchandan/Podcaster-Releases/releases/tag/4.0.0)
+## [Podcaster v4.1.0.0](https://github.com/sajeebchandan/Podcaster-Releases/releases/tag/4.1.0.0)
 
 ![image](https://user-images.githubusercontent.com/34353160/85234366-b8ca9180-b42e-11ea-954e-a339e1177b2a.png)
 
