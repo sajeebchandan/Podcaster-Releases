@@ -11,8 +11,8 @@ Podcaster is a light-weight windows desktop application which can play online ra
 
 # Features
 * Play audio from the streaming URI of online radio on default MMDevice
-* Play audio directly via YouTube video link
-* Seek any stream which is seekable
+* Play audio directly via **YouTube** video link
+* **Seek** any stream which is seekable
 * Save URI into podcast collection
 * **Download audio** from audio URI
 * **Backup/Restore** podcast URI collection
