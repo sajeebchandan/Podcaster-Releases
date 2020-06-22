@@ -31,7 +31,7 @@ Podcaster is a light-weight windows desktop application which can play online ra
 ![image](https://user-images.githubusercontent.com/34353160/85256846-a9773280-b486-11ea-9373-d4e5d3cf4540.png)
 
 ## Download audio from audio URI
-![image](https://user-images.githubusercontent.com/34353160/85256966-d4618680-b486-11ea-82f6-19f098d27335.png)
+![image](https://user-images.githubusercontent.com/34353160/85257434-afb9de80-b487-11ea-843f-db86921b1afe.png)
 
 ## Back/Restore | FFT Settings
 ![image](https://user-images.githubusercontent.com/34353160/85257038-f824cc80-b486-11ea-90b3-78883af547fe.png)
