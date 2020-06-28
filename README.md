@@ -4,7 +4,7 @@ All releases of Podcaster App
 # Latest Release
 ## [Podcaster v5.0.0.0](https://github.com/sajeebchandan/Podcaster-Releases/releases/tag/5.0.0.0)
 
-![image](https://user-images.githubusercontent.com/34353160/85792829-ecbaf500-b755-11ea-872b-f511dbdd3738.png)
+![image](https://user-images.githubusercontent.com/34353160/85954664-f71a0080-b99a-11ea-8f5d-9052ae514b68.png)
 
 # What is Podcaster
 Podcaster is a light-weight windows desktop application which can play online radio via direct streaming link as well as audio from YouTube video link. It comes with a 120FPS high performance dynamic audio visualizer along with powerful 10 band graphical equalizer.
@@ -25,24 +25,22 @@ Podcaster is a light-weight windows desktop application which can play online ra
 ![image](https://user-images.githubusercontent.com/34353160/85793160-694dd380-b756-11ea-9cae-d7781b600fee.png)
 
 ## High quality 10-Band graphical Equalizer
-![image](https://user-images.githubusercontent.com/34353160/85793052-3f94ac80-b756-11ea-9d0c-fbfc8758e0c2.png)
+![image](https://user-images.githubusercontent.com/34353160/85954775-b2db3000-b99b-11ea-9f85-8999d3f08a09.png)
 
 ## Seek any stream which is seekable
-![image](https://user-images.githubusercontent.com/34353160/85793282-9b5f3580-b756-11ea-9790-b74612059d8f.png)
+![image](https://user-images.githubusercontent.com/34353160/85954860-562c4500-b99c-11ea-9443-350cf1a407d8.png)
 
 ## Save URI into podcast collection
 ![image](https://user-images.githubusercontent.com/34353160/85793383-c184d580-b756-11ea-9a8a-e963163b4ad4.png)
 
 ## Download audio from audio URI
-![image](https://user-images.githubusercontent.com/34353160/85793493-ea0ccf80-b756-11ea-9bda-b3c5fcdc7210.png)
+![image](https://user-images.githubusercontent.com/34353160/85954881-7c51e500-b99c-11ea-8f9b-eabf1a342e56.png)
 
 ## Back/Restore | Settings
 ![image](https://user-images.githubusercontent.com/34353160/85824613-0d10a100-b7a2-11ea-9463-566140ccab80.png)
 
 ## 120FPS High-Performance Dynamic Audio Visualizer
-![image](https://user-images.githubusercontent.com/34353160/85793753-4839b280-b757-11ea-98f8-20519ff7477a.png)
-
-![image](https://user-images.githubusercontent.com/34353160/85824771-58c34a80-b7a2-11ea-8c07-b59da3abb760.png)
+![image](https://user-images.githubusercontent.com/34353160/85954903-a7d4cf80-b99c-11ea-9d16-f99a3875a61f.png)
 
 # Credits
 
