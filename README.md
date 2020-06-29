@@ -28,7 +28,7 @@ Podcaster is a light-weight windows desktop application which can play online ra
 ![image](https://user-images.githubusercontent.com/34353160/85956006-3d279200-b9a4-11ea-96c1-2e8bbb2a6849.png)
 
 ## Seek any stream which is seekable
-![image](https://user-images.githubusercontent.com/34353160/85956029-6ea05d80-b9a4-11ea-9aa3-1221da49cf26.png)
+![image](https://user-images.githubusercontent.com/34353160/86029877-91d71580-ba55-11ea-9f7c-aaaece84d16e.png)
 
 ## Save URI into podcast collection
 ![image](https://user-images.githubusercontent.com/34353160/85793383-c184d580-b756-11ea-9a8a-e963163b4ad4.png)
