@@ -2,9 +2,9 @@
 All releases of Podcaster App
 
 # Latest Release
-## [Podcaster v5.0.0.0](https://github.com/sajeebchandan/Podcaster-Releases/releases/tag/5.0.0.0)
+## [Podcaster v6.0.0.0](https://github.com/sajeebchandan/Podcaster-Releases/releases/tag/6.0.0.0)
 
-![image](https://user-images.githubusercontent.com/34353160/85955980-1bc6a600-b9a4-11ea-9cfe-bcfdad3eb39f.png)
+![image](https://user-images.githubusercontent.com/34353160/86520870-1d441280-be6b-11ea-9b7e-54e17a32edce.png)
 
 # What is Podcaster
 Podcaster is a light-weight windows desktop application which can play online radio via direct streaming link as well as audio from YouTube video link. It comes with a 120FPS high performance dynamic audio visualizer along with powerful 10 band graphical equalizer.
@@ -16,10 +16,12 @@ Podcaster is a light-weight windows desktop application which can play online ra
 * **Seek** any stream which is seekable
 * Save URI into podcast collection
 * **Download audio** from audio URI
-* **Backup/Restore** podcast URI collection
+* **Backup/Restore** | Settings 
+* Podcast URI collection
 * Control settings
-* **120FPS** High-Performance Dynamic Audio visualizer
+* **120FPS** High-Performance Dynamic Audio visualizer with Flip-Flop Spectrum Analyzer
 * System Tray notification with basic control
+* Full Screen Audio Visualizer
 
 ## Play audio from streamming URI / YouTube video link on default MMDevice
 ![image](https://user-images.githubusercontent.com/34353160/85793160-694dd380-b756-11ea-9cae-d7781b600fee.png)
@@ -37,10 +39,12 @@ Podcaster is a light-weight windows desktop application which can play online ra
 ![image](https://user-images.githubusercontent.com/34353160/85956045-95f72a80-b9a4-11ea-8ddb-ad8c78271cd9.png)
 
 ## Back/Restore | Settings
-![image](https://user-images.githubusercontent.com/34353160/85824613-0d10a100-b7a2-11ea-9463-566140ccab80.png)
+![image](https://user-images.githubusercontent.com/34353160/86520777-f5a07a80-be69-11ea-86bb-a977bbc2307d.png)
 
-## 120FPS High-Performance Dynamic Audio Visualizer
-![image](https://user-images.githubusercontent.com/34353160/85956066-cccd4080-b9a4-11ea-9af9-4122d419be93.png)
+## 120FPS High-Performance Dynamic Audio visualizer with Flip-Flop Spectrum Analyzer
+![image](https://user-images.githubusercontent.com/34353160/86520886-511f3800-be6b-11ea-8457-352befd5a326.png)
+
+![image](https://user-images.githubusercontent.com/34353160/86520917-b1ae7500-be6b-11ea-8286-2a8add863729.png)
 
 # Credits
 
