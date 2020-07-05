@@ -2,7 +2,7 @@
 All releases of Podcaster App
 
 # Latest Release
-## [Podcaster v6.0.0.0](https://github.com/sajeebchandan/Podcaster-Releases/releases/tag/6.0.0.0)
+## [Podcaster v7.0.0.0](https://github.com/sajeebchandan/Podcaster-Releases/releases/tag/7.0.0.0)
 
 ![image](https://user-images.githubusercontent.com/34353160/86520870-1d441280-be6b-11ea-9b7e-54e17a32edce.png)
 
@@ -22,12 +22,13 @@ Podcaster is a light-weight windows desktop application which can play online ra
 * **120FPS** High-Performance Dynamic Audio visualizer with Flip-Flop Spectrum Analyzer
 * System Tray notification with basic control
 * Full Screen Audio Visualizer
+* Basic control on Full-Screen Visualizer (Play-Pause, Volume, Seek)
 
 ## Play audio from streamming URI / YouTube video link on default MMDevice
 ![image](https://user-images.githubusercontent.com/34353160/85793160-694dd380-b756-11ea-9cae-d7781b600fee.png)
 
 ## High quality 10-Band graphical Equalizer
-![image](https://user-images.githubusercontent.com/34353160/85956006-3d279200-b9a4-11ea-96c1-2e8bbb2a6849.png)
+![image](https://user-images.githubusercontent.com/34353160/86542093-192ff780-bf34-11ea-8178-0d35f6e36b9b.png)
 
 ## Seek any stream which is seekable
 ![image](https://user-images.githubusercontent.com/34353160/86032857-d06ecf00-ba59-11ea-85a7-07277eda24d5.png)
@@ -39,7 +40,7 @@ Podcaster is a light-weight windows desktop application which can play online ra
 ![image](https://user-images.githubusercontent.com/34353160/85956045-95f72a80-b9a4-11ea-8ddb-ad8c78271cd9.png)
 
 ## Back/Restore | Settings | Visualizer Color Settings
-![image](https://user-images.githubusercontent.com/34353160/86520777-f5a07a80-be69-11ea-86bb-a977bbc2307d.png)
+![image](https://user-images.githubusercontent.com/34353160/86541831-ebe24a00-bf31-11ea-8e1d-522470a88e4e.png)
 
 ## 120FPS High-Performance Dynamic Audio visualizer with Flip-Flop Spectrum Analyzer
 ![image](https://user-images.githubusercontent.com/34353160/86520886-511f3800-be6b-11ea-8457-352befd5a326.png)
