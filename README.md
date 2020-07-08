@@ -16,7 +16,7 @@ Podcaster is a light-weight windows desktop application which can play online ra
 * **Seek** any stream which is seekable
 * Save URI into podcast collection
 * **Download audio** from audio URI
-* **Backup/Restore** | Settings | **Visualizer Color Settings**
+* **Backup/Restore** | Settings | **Visualizer Settings**
 * Podcast URI collection
 * Control settings
 * **120FPS** High-Performance Dynamic Audio visualizer with Flip-Flop Spectrum Analyzer
@@ -39,8 +39,8 @@ Podcaster is a light-weight windows desktop application which can play online ra
 ## Download audio from audio URI
 ![image](https://user-images.githubusercontent.com/34353160/85956045-95f72a80-b9a4-11ea-8ddb-ad8c78271cd9.png)
 
-## Back/Restore | Settings | Visualizer Color Settings
-![image](https://user-images.githubusercontent.com/34353160/86541831-ebe24a00-bf31-11ea-8e1d-522470a88e4e.png)
+## Back/Restore | Settings | Visualizer Settings
+![image](https://user-images.githubusercontent.com/34353160/86885728-936ca180-c117-11ea-955a-5b547717b491.png)
 
 ## 120FPS High-Performance Dynamic Audio visualizer with Flip-Flop Spectrum Analyzer
 ![image](https://user-images.githubusercontent.com/34353160/86520886-511f3800-be6b-11ea-8457-352befd5a326.png)
