@@ -40,7 +40,7 @@ Podcaster is a light-weight windows desktop application which can play online ra
 ![image](https://user-images.githubusercontent.com/34353160/85956045-95f72a80-b9a4-11ea-8ddb-ad8c78271cd9.png)
 
 ## Back/Restore | Settings | Visualizer Settings
-![image](https://user-images.githubusercontent.com/34353160/86885728-936ca180-c117-11ea-955a-5b547717b491.png)
+![image](https://user-images.githubusercontent.com/34353160/86968932-c140fd00-c18e-11ea-8a12-8437049a140c.png)
 
 ## 120FPS High-Performance Dynamic Audio visualizer with Flip-Flop Spectrum Analyzer
 ![image](https://user-images.githubusercontent.com/34353160/86520886-511f3800-be6b-11ea-8457-352befd5a326.png)
