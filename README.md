@@ -2,7 +2,7 @@
 All releases of Podcaster App
 
 # Latest Release
-## [Podcaster v8.0.0.0](https://github.com/sajeebchandan/Podcaster-Releases/releases/tag/8.0.0.0)
+## [Podcaster v9.0.0.0](https://github.com/sajeebchandan/Podcaster-Releases/releases/tag/9.0.0.0)
 
 ![image](https://user-images.githubusercontent.com/34353160/86520870-1d441280-be6b-11ea-9b7e-54e17a32edce.png)
 
@@ -16,6 +16,7 @@ Podcaster is a light-weight windows desktop application which can play online ra
 * **Seek** any stream which is seekable
 * Save URI into podcast collection
 * **Download audio** from audio URI
+* **YouTube** audio download
 * **Backup/Restore** | Settings | **Visualizer Settings**
 * Podcast URI collection
 * Control settings
