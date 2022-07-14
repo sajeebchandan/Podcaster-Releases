@@ -25,7 +25,7 @@ Podcaster is a light-weight windows desktop application which can play online ra
 * Full Screen Audio Visualizer
 * Basic control on Full-Screen Visualizer (Play-Pause, Volume, Seek)
 
-## Play audio from streamming URI / YouTube video link on default MMDevice
+## Play audio from streaming URI / YouTube video link on default MMDevice
 ![image](https://user-images.githubusercontent.com/34353160/85793160-694dd380-b756-11ea-9cae-d7781b600fee.png)
 
 ## High quality 10-Band graphical Equalizer
